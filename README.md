@@ -21,6 +21,7 @@
     └─── README.md
     
 ## To-do list
+ - [x] handle unorder images
  - [ ] bundle adjustment
  - [ ] gain compensation
  - [ ] multiband blending
