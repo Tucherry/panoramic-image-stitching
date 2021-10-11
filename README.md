@@ -15,8 +15,8 @@
     ├─── part6.m            # stitching multiple ordered images
     ├─── part7.m            # stitching multiple unordered images
     ---------------------------------------------------------------------
-    ├─── siftWin32.exe      # **Windows** core application for `sift` from `siftDemoV4`
-    ├─── sift               # **Unix** core application for `sift` from `siftDemoV4`
+    ├─── siftWin32.exe      # Windows core application for `sift` from `siftDemoV4`
+    ├─── sift               # Unix core application for `sift` from `siftDemoV4`
     ├─── getorder.m         # function for ordering images
     └─── README.md
     
