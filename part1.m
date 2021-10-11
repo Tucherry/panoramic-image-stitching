@@ -1,5 +1,5 @@
 %% read image
-imgpath='.\source\im01.jpg';
+imgpath='.\sources\im01.jpg';
 input=double(rgb2gray(imread(imgpath)));
 
 %% Sobel Kernel
