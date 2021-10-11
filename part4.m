@@ -1,6 +1,6 @@
 %% read images
-h1=imread('.\im02.jpg');
-h2=imread('.\im01.jpg');
+h1=imread('.\sources\im02.jpg');
+h2=imread('.\sources\im01.jpg');
 
 %% choose points
 image(h1);
