@@ -3,7 +3,7 @@
  - MATLAB (tested on `R2021a`)
  - Image Processing Toolbox (for `imwarp`)
 ## Instruction
-> This is a backup of my assignment 1 of **EE5731 Pattern Recognition**. This assignment consists of 7 parts, in which the part 7 has realised a panoramic image stitching of unordered images. 
+> This is a backup of my assignment 1 of **EE5731 Pattern Recognition**. This assignment consists of 7 parts, in which the part 7 has realised a panoramic image stitching of unordered images.
 ### Folder list
     .
     ├─── part1.m            # convolution for different kernels
@@ -25,3 +25,6 @@
  - [ ] bundle adjustment
  - [ ] gain compensation
  - [ ] multiband blending
+
+## Acknowledgement
+ - [@dparksports](https://github.com/dparksports/siftDemoV4)
