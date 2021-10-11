@@ -1,8 +1,8 @@
 clc;
 clear;
 %% read images
-h1path='.\im01.jpg';
-h2path='.\im02.jpg';
+h1path='.\sources\im01.jpg';
+h2path='.\sources\im02.jpg';
 h1=imread(h1path);
 h2=imread(h2path);
 
