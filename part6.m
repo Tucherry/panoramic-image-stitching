@@ -1,11 +1,11 @@
 %% read images
 clc;
 clear;
-im1path='.\test1.jpg';
-im2path='.\test2.jpg';
-im3path='.\test3.jpg';
-im4path='.\test4.jpg';
-im5path='.\test5.jpg';
+im1path='.\sources\im01.jpg';
+im2path='.\sources\im02.jpg';
+im3path='.\sources\im03.jpg';
+im4path='.\sources\im04.jpg';
+im5path='.\sources\im05.jpg';
 imgseries={im1path,im2path,im3path,im4path,im5path};
 
 img=mystitching(imgseries);
